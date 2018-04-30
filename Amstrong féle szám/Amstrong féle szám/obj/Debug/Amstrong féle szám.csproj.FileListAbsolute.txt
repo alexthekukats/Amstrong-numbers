@@ -1,0 +1,16 @@
+F:\Users\Alex\Documents\C# Progik\Amstrong féle szám\Amstrong féle szám\bin\Debug\Amstrong féle szám.exe
+F:\Users\Alex\Documents\C# Progik\Amstrong féle szám\Amstrong féle szám\bin\Debug\Amstrong féle szám.pdb
+F:\Users\Alex\Documents\C# Progik\Amstrong féle szám\Amstrong féle szám\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\Alex\Documents\C# Progik\Amstrong féle szám\Amstrong féle szám\obj\Debug\Amstrong féle szám.exe
+F:\Users\Alex\Documents\C# Progik\Amstrong féle szám\Amstrong féle szám\obj\Debug\Amstrong féle szám.pdb
+D:\Mentés\C# Progik\Amstrong féle szám\Amstrong féle szám\obj\Debug\Amstrong féle szám.exe
+D:\Mentés\C# Progik\Amstrong féle szám\Amstrong féle szám\obj\Debug\Amstrong féle szám.pdb
+D:\Mentés\C# Progik\Amstrong féle szám\Amstrong féle szám\bin\Debug\Amstrong féle szám.exe
+D:\Mentés\C# Progik\Amstrong féle szám\Amstrong féle szám\bin\Debug\Amstrong féle szám.pdb
+D:\Mentés\C# Progik\Amstrong féle szám\Amstrong féle szám\obj\Debug\Amstrong féle szám.csprojResolveAssemblyReference.cache
+D:\Mentes\Alex_old\C# Progik\Amstrong féle szám\Amstrong féle szám\bin\Debug\Amstrong féle szám.exe
+D:\Mentes\Alex_old\C# Progik\Amstrong féle szám\Amstrong féle szám\bin\Debug\Amstrong féle szám.pdb
+D:\Mentes\Alex_old\C# Progik\Amstrong féle szám\Amstrong féle szám\obj\Debug\Amstrong féle szám.csprojResolveAssemblyReference.cache
+D:\Mentes\Alex_old\C# Progik\Amstrong féle szám\Amstrong féle szám\obj\Debug\Amstrong féle szám.csproj.CoreCompileInputs.cache
+D:\Mentes\Alex_old\C# Progik\Amstrong féle szám\Amstrong féle szám\obj\Debug\Amstrong féle szám.exe
+D:\Mentes\Alex_old\C# Progik\Amstrong féle szám\Amstrong féle szám\obj\Debug\Amstrong féle szám.pdb
